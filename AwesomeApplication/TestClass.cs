@@ -12,7 +12,7 @@
         {
             get
             {
-                return "The best string in the world.";
+                return "The best string in the world for testing GitHub";
             } 
         }
     }
